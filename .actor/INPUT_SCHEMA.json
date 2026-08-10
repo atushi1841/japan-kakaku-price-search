@@ -1,0 +1,29 @@
+{
+  "title": "Japan Kakaku Price Search — 価格.com Price Lookup",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "keyword": {
+      "title": "Search Keyword",
+      "type": "string",
+      "description": "検索キーワード（例: iPhone, 一眼レフ, PS5, RTX 5080）",
+      "editor": "textfield",
+      "prefill": "iPhone"
+    },
+    "maxItems": {
+      "title": "Max Items",
+      "type": "integer",
+      "description": "Maximum items to collect",
+      "default": 100,
+      "minimum": 1
+    },
+    "maxPages": {
+      "title": "Max Pages",
+      "type": "integer",
+      "description": "Max search result pages",
+      "default": 2,
+      "minimum": 1
+    }
+  },
+  "required": ["keyword"]
+}
