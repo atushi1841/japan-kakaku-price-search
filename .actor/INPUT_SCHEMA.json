@@ -3,6 +3,20 @@
   "type": "object",
   "schemaVersion": 1,
   "properties": {
+    "statsMode": {
+      "title": "Enable Statistics Mode",
+      "type": "boolean",
+      "description": "統計モードを有効にする（価格統計を出力）",
+      "editor": "checkbox",
+      "default": false
+    },
+    "statsKeyword": {
+      "title": "Statistics Filter Keyword",
+      "type": "string",
+      "description": "タイトル部分一致で絞り込むキーワード（任意）",
+      "editor": "textfield",
+      "prefill": ""
+    },
     "keyword": {
       "title": "Search Keyword",
       "type": "string",
