@@ -6,5 +6,27 @@
   "buildTag": "latest",
   "dockerfile": "./Dockerfile",
   "readme": "./README.md",
-  "input": "./INPUT_SCHEMA.json"
+  "input": "./INPUT_SCHEMA.json",
+  "outputSchema": {
+    "actorOutputSchemaVersion": 1,
+    "title": "Output",
+    "description": "Price.com product search results",
+    "type": "object",
+    "properties": {
+      "productId": {"title": "Product Id", "type": "string", "description": "Product ID", "template": "{{productId}}"},
+      "title": {"title": "Title", "type": "string", "description": "Product title", "template": "{{title}}"},
+      "maker": {"title": "Maker", "type": "string", "description": "Manufacturer", "template": "{{maker}}"},
+      "price": {"title": "Price", "type": "string", "description": "Price in JPY", "template": "{{price}}"},
+      "priceType": {"title": "Price Type", "type": "string", "description": "Price type label", "template": "{{priceType}}"},
+      "shopCount": {"title": "Shop Count", "type": "string", "description": "Number of shops", "template": "{{shopCount}}"},
+      "review": {"title": "Review", "type": "string", "description": "Review score and count", "template": "{{review}}"},
+      "specs": {"title": "Specs", "type": "string", "description": "Product specifications", "template": "{{specs}}"},
+      "productUrl": {"title": "Product Url", "type": "string", "description": "Product page URL", "template": "{{productUrl}}"},
+      "source": {"title": "Source", "type": "string", "description": "Data source", "template": "{{source}}"},
+      "shop": {"title": "Shop", "type": "string", "description": "Shop name", "template": "{{shop}}"},
+      "keyword": {"title": "Keyword", "type": "string", "description": "Search keyword", "template": "{{keyword}}"},
+      "scrapedAt": {"title": "Scraped At", "type": "string", "description": "Scrape timestamp", "template": "{{scrapedAt}}"}
+    },
+    "required": ["productId", "title", "price"]
+  }
 }
