@@ -1,0 +1,28 @@
+{
+  "success_indicators": [
+    "value-feed.json=10行実データlowest_price>0source/repo必須値あり",
+    "FEED.mdヘッダ+Generatedフッター実在",
+    "value_feed.py py_compile OK冪等",
+    "未push解消origin反映"
+  ],
+  "verification_commands": [
+    "python3 json value-feed.json len -> 10",
+    "git log origin/main..HEAD --oneline -> 空push済み",
+    "python3 -m py_compile scripts/value_feed.py -> OK",
+    "git status -> working tree clean"
+  ],
+  "artifact_paths": [
+    "/mnt/d/Project2/japan-kakaku-price-search/data/value-feed.json",
+    "/mnt/d/Project2/japan-kakaku-price-search/FEED.md",
+    "/mnt/d/Project2/japan-kakaku-price-search/scripts/value_feed.py",
+    "/mnt/d/Project2/japan-kakaku-price-search/reports/t_f86685b6_verification.md"
+  ],
+  "evidence_hashes": [
+    "5a8a21aa46fea2c506870c841d89d051e8e807447965f9a4820bb96344f93206",
+    "a4dc7c4bfd657c131573fb0a9f12512cc5cf2bf2ac0629cb233e1808a00130d4",
+    "1f9b87427a52ed53672707a5b0d87b4ebd9202a066a66a559c412552b1b4e24d",
+    "6d01fd04cfb2ede3a54ba268da6fd273da85376b15d49e987eda568a6175044c"
+  ],
+  "task_id": "t_f86685b6",
+  "status": "complete"
+}
