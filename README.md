@@ -58,3 +58,11 @@ Public search results from Kakaku.com (product name, lowest price, shop count, r
 ## Connect
 
 Connect to your workflow via **Apify Connectors**: Google Sheets, Slack, or webhooks — automate price monitoring without code.
+
+---
+
+## 📈 最新価格フィード
+
+[日本市場・人気商品の最安価格フィード](./FEED.md)
+
+*このページは自動更新されます。詳細データは [FEED.md](./FEED.md) を参照。*
