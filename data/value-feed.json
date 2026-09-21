@@ -1,11 +1,21 @@
 [
   {
     "keyword": "iPhone",
+    "product": "【土日、祝日発送】新品未開封品【Nランク】SIMフリー iPhone17e 256GB Apple ブラック MHRN4J/A ホワイト MHRP4J/A ソフトピンク MHRQ4...",
+    "lowest_price_yen": 128258,
+    "shop_count": 0,
+    "review_score": 5.0,
+    "fetched_at": "2026-09-22T07:55:22.764920Z",
+    "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
+    "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
+  },
+  {
+    "keyword": "iPhone",
     "product": "AirTag(第2世代) 4個入り",
     "lowest_price_yen": 14622,
     "shop_count": 0,
     "review_score": 5.0,
-    "fetched_at": "2026-09-22T07:54:52.295559Z",
+    "fetched_at": "2026-09-22T07:55:22.765040Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
@@ -15,17 +25,7 @@
     "lowest_price_yen": 164750,
     "shop_count": 0,
     "review_score": 4.75,
-    "fetched_at": "2026-09-22T07:54:52.295413Z",
-    "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
-    "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
-  },
-  {
-    "keyword": "iPhone",
-    "product": "【新品未開封】アップル iPhone16e 256GB ブラック ホワイト simフリー 本体 国内正規品 送料無料 即日発送 ストア版・キャリア版混在",
-    "lowest_price_yen": 127980,
-    "shop_count": 0,
-    "review_score": 4.67,
-    "fetched_at": "2026-09-22T07:54:52.295411Z",
+    "fetched_at": "2026-09-22T07:55:22.764923Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
@@ -35,7 +35,7 @@
     "lowest_price_yen": 158800,
     "shop_count": 51,
     "review_score": 4.66,
-    "fetched_at": "2026-09-22T07:54:52.295482Z",
+    "fetched_at": "2026-09-22T07:55:22.764990Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
@@ -45,7 +45,7 @@
     "lowest_price_yen": 156800,
     "shop_count": 124,
     "review_score": 4.64,
-    "fetched_at": "2026-09-22T07:54:52.295542Z",
+    "fetched_at": "2026-09-22T07:55:22.765019Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
@@ -55,7 +55,7 @@
     "lowest_price_yen": 89800,
     "shop_count": 113,
     "review_score": 4.6,
-    "fetched_at": "2026-09-22T07:54:52.295475Z",
+    "fetched_at": "2026-09-22T07:55:22.764947Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
@@ -65,7 +65,7 @@
     "lowest_price_yen": 124799,
     "shop_count": 330,
     "review_score": 4.58,
-    "fetched_at": "2026-09-22T07:54:52.295545Z",
+    "fetched_at": "2026-09-22T07:55:22.765022Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
@@ -75,7 +75,7 @@
     "lowest_price_yen": 118499,
     "shop_count": 570,
     "review_score": 4.5,
-    "fetched_at": "2026-09-22T07:54:52.295408Z",
+    "fetched_at": "2026-09-22T07:55:22.764917Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
@@ -85,17 +85,17 @@
     "lowest_price_yen": 179800,
     "shop_count": 539,
     "review_score": 4.5,
-    "fetched_at": "2026-09-22T07:54:52.295521Z",
+    "fetched_at": "2026-09-22T07:55:22.764998Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
   {
     "keyword": "iPhone",
-    "product": "【新品未開封】 Apple iPhone17e 256GB ホワイト アップル simフリー 量販店版 本体 国内正規品 ストア版 キャリア版 docomo/au/softbank...",
-    "lowest_price_yen": 129990,
+    "product": "PowerLine II A8432022 [ホワイト]",
+    "lowest_price_yen": 922,
     "shop_count": 0,
     "review_score": 4.5,
-    "fetched_at": "2026-09-22T07:54:52.295518Z",
+    "fetched_at": "2026-09-22T07:55:22.765051Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   }
