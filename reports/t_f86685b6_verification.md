@@ -2,7 +2,7 @@
 
 タスクID: t_f86685b6（kensho-revenue-worker）。成果物は japan-kakaku-price-search リポジトリ。
 
-## verification_evidence（実測のみ）
+## verification_evidence
 
 ### 検証1: 実データ収集+生成
 $ python3 scripts/value_feed.py
