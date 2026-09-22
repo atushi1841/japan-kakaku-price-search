@@ -1,0 +1,22 @@
+{
+  "success_indicators": [
+    "誠実性3軸全項目PASS（実data由来・source/repo出典・自動生成フッター・釣り文言ゼロ・週3回制限）",
+    "実装正しさ全項目PASS（スキーマ一致・lowest_price>0・ソート10件・冪等・秘密漏洩なし）",
+    "KPIベースライン実測記録（Apify actor run=93 / GitHub star=0 fork=0 watchers=0）"
+  ],
+  "verification_commands": [
+    "$ curl -s https://api.github.com/repos/atushi1841/japan-kakaku-price-search => stars=0 forks=0 watchers=0 pushed=2026-09-21T23:25:53Z",
+    "$ curl -sL -o /dev/null -w '%{http_code}' https://apify.com/fruitful_quintessence/japan-kakaku-price-search => 200",
+    "$ git log --oneline -3 => 0ddb16d evidence handoff / 4d209be 10件実価格更新 / 1581105 value-feed作成",
+    "$ git grep -iE 'apify_token|password|api_key' => マッチなし（秘密漏洩なし）"
+  ],
+  "artifact_paths": [
+    "/mnt/d/Project2/kensho/reports/qa_run547_2026-09-22_0904.md",
+    "/mnt/d/Project2/japan-kakaku-price-search/reports/t_35c91498_verification.md"
+  ],
+  "evidence_hashes": [
+    "git sha: c8ff5ba (kensho qa_run547) + fb05f38 (修正後) ; japan-kakaku reports/t_35c91498_verification.md committed"
+  ],
+  "task_id": "t_35c91498",
+  "status": "complete"
+}
