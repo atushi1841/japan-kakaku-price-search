@@ -2,20 +2,20 @@
   {
     "keyword": "iPhone",
     "product": "AirTag(第2世代) 4個入り",
-    "lowest_price_yen": 15181,
+    "lowest_price_yen": 14944,
     "shop_count": 0,
     "review_score": 5.0,
-    "fetched_at": "2026-09-25T03:30:11.847830Z",
+    "fetched_at": "2026-09-28T03:30:08.339069Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
   {
     "keyword": "iPhone",
     "product": "iPhone 16 Plus",
-    "lowest_price_yen": 158800,
+    "lowest_price_yen": 144799,
     "shop_count": 51,
     "review_score": 4.66,
-    "fetched_at": "2026-09-25T03:30:11.847784Z",
+    "fetched_at": "2026-09-28T03:30:08.339005Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
@@ -25,7 +25,7 @@
     "lowest_price_yen": 156800,
     "shop_count": 124,
     "review_score": 4.64,
-    "fetched_at": "2026-09-25T03:30:11.847810Z",
+    "fetched_at": "2026-09-28T03:30:08.339021Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
@@ -35,7 +35,7 @@
     "lowest_price_yen": 89799,
     "shop_count": 113,
     "review_score": 4.6,
-    "fetched_at": "2026-09-25T03:30:11.847779Z",
+    "fetched_at": "2026-09-28T03:30:08.338994Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
@@ -45,27 +45,27 @@
     "lowest_price_yen": 124799,
     "shop_count": 330,
     "review_score": 4.58,
-    "fetched_at": "2026-09-25T03:30:11.847816Z",
+    "fetched_at": "2026-09-28T03:30:08.339025Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
   {
     "keyword": "iPhone",
     "product": "iPhone 16",
-    "lowest_price_yen": 118862,
+    "lowest_price_yen": 117900,
     "shop_count": 576,
     "review_score": 4.5,
-    "fetched_at": "2026-09-25T03:30:11.847745Z",
+    "fetched_at": "2026-09-28T03:30:08.338964Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
   {
     "keyword": "iPhone",
     "product": "iPhone 15 Pro",
-    "lowest_price_yen": 179800,
+    "lowest_price_yen": 159900,
     "shop_count": 539,
     "review_score": 4.5,
-    "fetched_at": "2026-09-25T03:30:11.847793Z",
+    "fetched_at": "2026-09-28T03:30:08.339008Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
@@ -75,27 +75,27 @@
     "lowest_price_yen": 922,
     "shop_count": 0,
     "review_score": 4.5,
-    "fetched_at": "2026-09-25T03:30:11.847876Z",
+    "fetched_at": "2026-09-28T03:30:08.339076Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
   {
     "keyword": "iPhone",
     "product": "iPhone 15",
-    "lowest_price_yen": 115930,
+    "lowest_price_yen": 114382,
     "shop_count": 953,
     "review_score": 4.46,
-    "fetched_at": "2026-09-25T03:30:11.847766Z",
+    "fetched_at": "2026-09-28T03:30:08.338983Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
   {
     "keyword": "iPhone",
     "product": "iPhone 13",
-    "lowest_price_yen": 89535,
+    "lowest_price_yen": 89552,
     "shop_count": 1027,
     "review_score": 4.45,
-    "fetched_at": "2026-09-25T03:30:11.847768Z",
+    "fetched_at": "2026-09-28T03:30:08.338985Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   }
