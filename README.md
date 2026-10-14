@@ -66,3 +66,15 @@ Connect to your workflow via **Apify Connectors**: Google Sheets, Slack, or webh
 [日本市場・人気商品の最安価格フィード](./FEED.md)
 
 *このページは自動更新されます。詳細データは [FEED.md](./FEED.md) を参照。*
+
+---
+
+## Related Actors
+
+This actor is part of the **fruitful_quintessence** Apify suite. Datasets in the same category are available from sibling actors:
+
+- **[suumo-japan-real-estate-scraper](https://apify.com/fruitful_quintessence/suumo-japan-real-estate-scraper)** — Scrapes rental and used-condo sale listings from SUUMO (スーモ), Japan's #1 property portal.
+- **[japan-rent-market-scraper](https://apify.com/fruitful_quintessence/japan-rent-market-scraper)** — Rental price comparison across SUUMO, at home, and LIFULL HOME'S in one dataset.
+- **[japan-property-market-scraper](https://apify.com/fruitful_quintessence/japan-property-market-scraper)** — Used condo sale price comparison across SUUMO and at home.
+
+See the full suite on the [Apify profile](https://apify.com/fruitful_quintessence).
