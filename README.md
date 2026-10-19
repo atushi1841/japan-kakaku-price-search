@@ -78,3 +78,13 @@ This actor is part of the **fruitful_quintessence** Apify suite. Datasets in the
 - **[japan-property-market-scraper](https://apify.com/fruitful_quintessence/japan-property-market-scraper)** — Used condo sale price comparison across SUUMO and at home.
 
 See the full suite on the [Apify profile](https://apify.com/fruitful_quintessence).
+
+---
+
+## Gumroad Products
+
+- [FREE Sample – Japan Hobby & Collectibles Market Price Dataset](https://atushi5.gumroad.com/l/kutuxe?utm_source=github_readme&utm_medium=readme&utm_campaign=japan_hobby)
+- [Japanese Anime Figure & Collectibles Market Price Dataset (Weekly CSV)](https://atushi5.gumroad.com/l/agyhq?utm_source=github_readme&utm_medium=readme&utm_campaign=japan_hobby)
+- [週次レポート｜日本ホビー・中古市場マーケット動向](https://atushi5.gumroad.com/l/qdyyyi?utm_source=github_readme&utm_medium=readme&utm_campaign=japan_hobby)
+
+> Source data: [Apify Store – fruitful_quintessence](https://apify.com/fruitful_quintessence)
