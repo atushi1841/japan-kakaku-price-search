@@ -1,31 +1,11 @@
 [
   {
     "keyword": "iPhone",
-    "product": "【14日20時からポイントUP! お買い物マラソン】新品未開封品【Nランク】SIMフリー iPhone17e 256GB Apple ブラック MHRN4J/A ホワイト MHRP...",
-    "lowest_price_yen": 127250,
-    "shop_count": 0,
-    "review_score": 5.0,
-    "fetched_at": "2026-10-19T03:30:10.709581Z",
-    "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
-    "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
-  },
-  {
-    "keyword": "iPhone",
     "product": "AirTag(第2世代) 4個入り",
-    "lowest_price_yen": 15600,
+    "lowest_price_yen": 15351,
     "shop_count": 0,
     "review_score": 5.0,
-    "fetched_at": "2026-10-19T03:30:10.709620Z",
-    "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
-    "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
-  },
-  {
-    "keyword": "iPhone",
-    "product": "＼楽天ランキング入賞／ [新品未開封品・開封済み品｜SIMフリー iPhone 16 ] 128GB 256GB 512GB 各色 スマホ 本体",
-    "lowest_price_yen": 132600,
-    "shop_count": 0,
-    "review_score": 4.83,
-    "fetched_at": "2026-10-19T03:30:10.709547Z",
+    "fetched_at": "2026-10-21T03:30:19.405339Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
@@ -35,7 +15,7 @@
     "lowest_price_yen": 158800,
     "shop_count": 54,
     "review_score": 4.66,
-    "fetched_at": "2026-10-19T03:30:10.709592Z",
+    "fetched_at": "2026-10-21T03:30:19.405265Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
@@ -45,17 +25,17 @@
     "lowest_price_yen": 156800,
     "shop_count": 124,
     "review_score": 4.64,
-    "fetched_at": "2026-10-19T03:30:10.709596Z",
+    "fetched_at": "2026-10-21T03:30:19.405268Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
   {
     "keyword": "iPhone",
     "product": "iPhone 14 Plus",
-    "lowest_price_yen": 87343,
+    "lowest_price_yen": 88225,
     "shop_count": 113,
     "review_score": 4.61,
-    "fetched_at": "2026-10-19T03:30:10.709572Z",
+    "fetched_at": "2026-10-21T03:30:19.405237Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
@@ -65,17 +45,27 @@
     "lowest_price_yen": 124799,
     "shop_count": 330,
     "review_score": 4.58,
-    "fetched_at": "2026-10-19T03:30:10.709601Z",
+    "fetched_at": "2026-10-21T03:30:19.405318Z",
+    "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
+    "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
+  },
+  {
+    "keyword": "iPhone",
+    "product": "iPhone 18 Pro Max",
+    "lowest_price_yen": 237999,
+    "shop_count": 0,
+    "review_score": 4.57,
+    "fetched_at": "2026-10-21T03:30:19.405234Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
   {
     "keyword": "iPhone",
     "product": "iPhone 16",
-    "lowest_price_yen": 120200,
+    "lowest_price_yen": 120133,
     "shop_count": 580,
     "review_score": 4.5,
-    "fetched_at": "2026-10-19T03:30:10.709544Z",
+    "fetched_at": "2026-10-21T03:30:19.405206Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
@@ -85,17 +75,27 @@
     "lowest_price_yen": 146300,
     "shop_count": 539,
     "review_score": 4.5,
-    "fetched_at": "2026-10-19T03:30:10.709588Z",
+    "fetched_at": "2026-10-21T03:30:19.405257Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
   {
     "keyword": "iPhone",
     "product": "iPhone 15",
-    "lowest_price_yen": 121160,
+    "lowest_price_yen": 120005,
     "shop_count": 953,
     "review_score": 4.47,
-    "fetched_at": "2026-10-19T03:30:10.709565Z",
+    "fetched_at": "2026-10-21T03:30:19.405229Z",
+    "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
+    "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
+  },
+  {
+    "keyword": "iPhone",
+    "product": "iPhone 17",
+    "lowest_price_yen": 143354,
+    "shop_count": 606,
+    "review_score": 4.47,
+    "fetched_at": "2026-10-21T03:30:19.405200Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   }
