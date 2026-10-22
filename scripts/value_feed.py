@@ -211,6 +211,11 @@ def main() -> int:
         if diff:
             commit_msg = f"kensho-value-feed: {len(rows)}件の実価格データを更新 (auto)"
             git(["commit", "-m", commit_msg])
+            # 2026-10-23修正: remoteが先行している場合 push が毎回 non-fast-forward で
+            # 失敗していた（10/15以降 value-feed のgithub反映が停滞）。rebaseで取り込んでからpush。
+            pull = git(["pull", "--rebase", "--autostash"])
+            if pull.returncode != 0:
+                print(f"pull --rebase失敗: {pull.stderr}", file=sys.stderr)
             push = git(["push"])
             if push.returncode != 0:
                 print(f"push失敗: {push.stderr}", file=sys.stderr)
