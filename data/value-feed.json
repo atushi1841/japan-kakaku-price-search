@@ -2,10 +2,10 @@
   {
     "keyword": "iPhone",
     "product": "AirTag(第2世代) 4個入り",
-    "lowest_price_yen": 15600,
+    "lowest_price_yen": 15598,
     "shop_count": 0,
     "review_score": 5.0,
-    "fetched_at": "2026-11-16T03:30:07.800551Z",
+    "fetched_at": "2026-11-18T03:30:09.813857Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
@@ -15,7 +15,7 @@
     "lowest_price_yen": 166200,
     "shop_count": 54,
     "review_score": 4.66,
-    "fetched_at": "2026-11-16T03:30:07.800523Z",
+    "fetched_at": "2026-11-18T03:30:09.813827Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
@@ -25,17 +25,17 @@
     "lowest_price_yen": 1590,
     "shop_count": 0,
     "review_score": 4.66,
-    "fetched_at": "2026-11-16T03:30:07.800536Z",
+    "fetched_at": "2026-11-18T03:30:09.813842Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
   {
     "keyword": "iPhone",
     "product": "iPhone 14 Plus",
-    "lowest_price_yen": 88157,
+    "lowest_price_yen": 88967,
     "shop_count": 113,
     "review_score": 4.61,
-    "fetched_at": "2026-11-16T03:30:07.800467Z",
+    "fetched_at": "2026-11-18T03:30:09.813810Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
@@ -45,47 +45,47 @@
     "lowest_price_yen": 124800,
     "shop_count": 330,
     "review_score": 4.58,
-    "fetched_at": "2026-11-16T03:30:07.800528Z",
+    "fetched_at": "2026-11-18T03:30:09.813829Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
   {
     "keyword": "iPhone",
     "product": "iPhone 16",
-    "lowest_price_yen": 127466,
+    "lowest_price_yen": 118867,
     "shop_count": 580,
     "review_score": 4.5,
-    "fetched_at": "2026-11-16T03:30:07.800444Z",
-    "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
-    "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
-  },
-  {
-    "keyword": "iPhone",
-    "product": "iPhone 15",
-    "lowest_price_yen": 121503,
-    "shop_count": 953,
-    "review_score": 4.48,
-    "fetched_at": "2026-11-16T03:30:07.800457Z",
+    "fetched_at": "2026-11-18T03:30:09.813786Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
   {
     "keyword": "iPhone",
     "product": "iPhone 17",
-    "lowest_price_yen": 143207,
+    "lowest_price_yen": 144999,
     "shop_count": 612,
+    "review_score": 4.49,
+    "fetched_at": "2026-11-18T03:30:09.813770Z",
+    "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
+    "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
+  },
+  {
+    "keyword": "iPhone",
+    "product": "iPhone 15",
+    "lowest_price_yen": 121422,
+    "shop_count": 953,
     "review_score": 4.48,
-    "fetched_at": "2026-11-16T03:30:07.800430Z",
+    "fetched_at": "2026-11-18T03:30:09.813800Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
   {
     "keyword": "iPhone",
     "product": "iPhone 18 Pro Max",
-    "lowest_price_yen": 228299,
+    "lowest_price_yen": 232307,
     "shop_count": 0,
     "review_score": 4.48,
-    "fetched_at": "2026-11-16T03:30:07.800464Z",
+    "fetched_at": "2026-11-18T03:30:09.813805Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   },
@@ -95,7 +95,7 @@
     "lowest_price_yen": 79800,
     "shop_count": 1027,
     "review_score": 4.45,
-    "fetched_at": "2026-11-16T03:30:07.800462Z",
+    "fetched_at": "2026-11-18T03:30:09.813807Z",
     "source": "https://apify.com/fruitful_quintessence/japan-kakaku-price-search",
     "repo": "https://github.com/atushi1841/japan-kakaku-price-search"
   }
